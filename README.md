@@ -10,11 +10,10 @@ Also some wrappers of **ChatGPT** can be found on the Internet since **OpenAI** 
 What does the ChatGPT look like exactly? Let's dive in.
 
 ## Coding
-Part 1 - 
-
-Part 2 - 
-
-
+* Part 0 Engaging GPU in Python
+* Part 1 Getting Started with ChatGPT
+* Part 2 ChatGPT Whisper-Gradio
+* Part 3 ChatGPT Whisper-Gradio-Diffuser
 
 ## Licenses
 MIT
